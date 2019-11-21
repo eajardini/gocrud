@@ -1,0 +1,24 @@
+# Trabalhando com o Git
+1 - Inicia um repositório: git init .
+
+2 - Adiciona arquivos: git add .
+
+3 - Verifica o status do repositorio: git status
+
+4 - Comitar o repositório: git commit
+
+
+Indicações da GitHub
+
+create a new repository on the command line
+    echo "# CRUD" >> README.md
+    git init
+    git add README.md
+    git commit -m "20191120 - Primeiro Commit"
+    git remote add origin https://github.com/eajardini/crud.git
+    git push -u origin master
+
+push an existing repository from the command line
+    git remote add origin https://github.com/eajardini/crud.git
+    git push -u origin master
+© 2019 GitHub, Inc.
