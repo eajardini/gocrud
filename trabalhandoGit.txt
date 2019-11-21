@@ -21,7 +21,9 @@ para compartilhar com outras pessoas
 4 - Pronto, agora você já clonou o repositório do GitHUB para seu computador.
 5 - Copie para dentro do diretório clonado os arquivos da aplicação que está em outro
     diretório para o clonado
-6 - 
+6 -  git commit -m "20191120 - Primeiro Commit"
+7 - git remote add origin https://github.com/eajardini/gocrud.git
+8 - git push -u origin master
 
 
 Indicações da GitHub
